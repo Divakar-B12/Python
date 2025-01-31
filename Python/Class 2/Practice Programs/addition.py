@@ -10,7 +10,7 @@ print(a + b)
 print(6 + 4)
 
 
-#EXAMPLE 2:
+#EXAMPLE 3:
 
 x = int(input("Enter the First Number: "))
 y = int(input("Enter the Second Number: "))
