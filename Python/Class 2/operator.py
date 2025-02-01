@@ -2,7 +2,7 @@
 
 #Following are some common operators in python:
 
-# 1. Arithmetic operators: +, -, *, **/ etc.
+# 1. Arithmetic operators: +, -, *, **,/,/ etc.
 # 2. Assignment operators: =, +=, -= etc.
 # 3. Comparison operators: ==, >, >=, <, != etc.
 # 4. Logical operators: and, or, not.
@@ -19,6 +19,7 @@ print("Multiplication:",7*3) # Multiplication
 print("Division:",7/3) # Division
 print("Modulus:",7%3) # Modulus 
 print("Square root:",7**3) # Square root 
+print("floor division:",(7//3)) #Floor Division :  floor division is a mathematical operation that rounds the result of a division down to the nearest whole number.
 #------------------------------------------------------------------------------------------
 
 # 2. Assignment operators: Assignment operators assign values to variables in programming languages. The left side of the operator is a variable, and the right side is the value to be assigned. 
